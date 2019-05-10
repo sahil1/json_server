@@ -1,8 +1,24 @@
 {
   "device": [
-    { "asset_id": 1, "device_id": 1, "name": "WT-01"}
+    {
+      "id": 1,
+      "asset_id": 1,
+      "device_id": 1,
+      "name": "WT-01"
+    },
+    {
+      "id": 2,
+      "asset_id": 1,
+      "device_id": 2,
+      "name": "WT-02"
+    }
   ],
   "stream": [
-    { "device_id": 1, "created_at": 1557451105, "windSpeed": 10.5232 }
+    {
+      "id": 1,
+      "device_id": 1,
+      "created_at": 1557451105,
+      "wind_speed": 10.5232
+    }
   ]
 }
