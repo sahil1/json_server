@@ -1,0 +1,8 @@
+{
+  "device": [
+    { "asset_id": 1, "device_id": 1, "name": "WT-01"}
+  ],
+  "stream": [
+    { "device_id": 1, "created_at": 1557451105, "windSpeed": 10.5232 }
+  ]
+}
